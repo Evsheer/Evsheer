@@ -1,9 +1,7 @@
 ## Hi there 👋
 
-<!--
-**Evsheer/Evsheer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Here are a few words about myself.
+My name is Evgeniy. I was born and currently live in Moscow. Im living with my wife and two kids. Im head of procurement department. I’m an open and outgoing person, and my friends say I’m a good conversationalist.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
